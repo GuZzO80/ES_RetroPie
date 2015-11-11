@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # CONFIGURE YOUR ROMS PATH
-ROMS_PATH='/home/pi/RetroPie/roms'
+ROMS_PATH='/recalbox/share/roms/'
 
 # FUNCTIONS
 function check_install_unrar() {
