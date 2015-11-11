@@ -1,9 +1,9 @@
 #!/bin/bash
 
 # CONFIGURE YOUR PATHS
-ROMS_PATH='/home/pi/RetroPie/roms'
-GAMELISTS_PATH='/home/pi/.emulationstation/gamelists'
-PICTURES_PATH='/home/pi/.emulationstation/downloaded_images'
+ROMS_PATH='/recalbox/share/roms'
+GAMELISTS_PATH='/root/.emulationstation/gamelists'
+PICTURES_PATH='/root/.emulationstation/downloaded_images'
 
 # FUNCTIONS
 function initialize() {
